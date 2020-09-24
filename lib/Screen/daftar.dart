@@ -33,7 +33,6 @@ class _DaftarState extends State<Daftar> {
   DaftarModel model = DaftarModel();
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     Firebase.initializeApp();
   }

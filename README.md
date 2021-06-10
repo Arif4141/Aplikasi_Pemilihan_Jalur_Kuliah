@@ -4,8 +4,9 @@ Prototype aplikasi rekomendasi jurusan bagi siswa-siswi SMA sederajat yang ingin
 
 ## Getting Started
 
-Aplikasi ini dibangun menggunakan Flutter sebagai frameworknya dan TensorFlow Lite untuk menghandle fitur rekomendasi yang menggunakan pembelajaran mesin untuk menghasilkan beberapa rekomendasi pilihan.
+Prototype aplikasi ini dibangun menggunakan Flutter sebagai frameworknya dan TensorFlow Lite untuk menghandle fitur rekomendasi yang menggunakan pembelajaran mesin untuk menghasilkan beberapa rekomendasi pilihan. Prototype aplikasi ini dikembangkan sebagai bagian dari Tugas Akhir yang menjadi syarat kelulusan kuliah.
 
 ## Kekurangan
-- Aplikasi ini masih belum mensupport platform iOS.
+- Prototype aplikasi ini masih belum mensupport platform iOS.
 - Model dari pembelajaran mesin yang masih memiliki akurasi rendah.
+- Data jurusan yang diambil adalah data dari jurusan salah satu universitas swasta di Indonesia.

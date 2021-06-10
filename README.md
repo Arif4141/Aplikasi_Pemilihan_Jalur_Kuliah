@@ -8,5 +8,5 @@ Prototype aplikasi ini dibangun menggunakan Flutter sebagai frameworknya dan Ten
 
 ## Kekurangan
 - Prototype aplikasi ini masih belum mensupport platform iOS.
-- Model dari pembelajaran mesin yang masih memiliki akurasi rendah.
+- Model dari pembelajaran mesin yang masih memiliki akurasi rendah sehingga dibutuhkan perbaikan.
 - Data jurusan yang diambil adalah data dari jurusan salah satu universitas swasta di Indonesia.
